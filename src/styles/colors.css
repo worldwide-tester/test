@@ -1,0 +1,23 @@
+:root {
+    --color-warn: #fcba03;
+    --color-medium: #007cbb;
+    --color-medium-light: #3d99ce;
+    --color-light: #00c2e0;
+    --color-danger: #B80A01;
+}
+
+.color-warn {
+    color: var(--color-warn);
+  }
+  
+  .color-info {
+    color: var(--color-light);
+  }
+  
+  .color-danger {
+    color: var(--color-danger);
+  }
+  
+  .color-question {
+    color: var(--color-light);
+  }
